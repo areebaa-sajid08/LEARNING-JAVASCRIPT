@@ -1,0 +1,12 @@
+.main-heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(96, 15, 15);
+}
+.sub-heading{
+    color: rgb(9, 56, 56);
+}
+.para{
+    color: rgb(9, 56, 56);
+}
