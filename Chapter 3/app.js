@@ -8,7 +8,7 @@ alert(uservisit);
 
 var birthyear = "2008";
 console.log(birthyear);
-document.write("My birth year is 2008 <br>Data type of my declared variable is number<br>");
+document.write("My birth year is " + birthyear+ "<br>Data type of my declared variable is number<br>");
 
 var visitorsname = "Areeba Sajid";
 console.log(visitorsname);
@@ -19,4 +19,4 @@ console.log(producttitle);
 var quantity = 5;
 console.log(5);
 
-document.write("Areeba Sajid ordered 5 T-shirt (S) on ABC clothing store");
+document.write("Areeba Sajid ordered 5 T-shirt (s) on ABC clothing store");

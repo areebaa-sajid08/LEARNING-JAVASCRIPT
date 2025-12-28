@@ -1,7 +1,7 @@
 alert("Error! Please enter a valid password");
 console.log("Error! Please enter a valid password");
-alert("Welcome To Js Land... \nHappy Coading!");
-console.log("Welcome To Js Land... \nHappy Coading!");
+alert("Welcome To Js Land... \n Happy Coading!");
+console.log("Welcome To Js Land... \n Happy Coading!");
 alert("Welcome To Js Land...");
 console.log("Welcome To Js Land...");
 alert("Happy Coading!");
