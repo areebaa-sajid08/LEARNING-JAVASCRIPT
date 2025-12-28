@@ -47,18 +47,37 @@ var totalPrice = ticketPrice * totalTickets;
 console.log(totalPrice);
 document.write("<b>4.</b>   Total cost to buy " + totalTickets +" tickets to a movie is " + totalPrice + "PKR"+ "<br><br>");
 
-// document.write("<b>5.</b>   <b>Table of  7</b>")
-// var num = 7;
-// for(var i = 1; i <=10; i++);
-// document.write(num + " x " + i + " = " + (num * i) + "<br>");
-// var num = 5;
-// document.write("<h2> Table of " + num + "</h2>");
-// for (var i = 1; i <= 10; i++);
-//  document.write(num + " x " + i + " = " + (num * i) + "<br>");
-
-
-
-// document.write("<b>5.</b>   <b>Table of  7</b> <br>");
-// var num = 7;
-// for (var i = 1; i <=10; i++);
-// document.write(num + " x " + i + " = " (num * i) + "<br>");
+//question # 5:
+var num = prompt("Enter a number");
+console.log(num);
+var i = 1
+document.write("<h2 class = 'heading'>Table of " + num + "</h2><br>");
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")
+i++
+console.log(num + " x "+ i + " = "+ i*num);
+document.write(num + " x "+ i + " = "+ i*num + "<br>")

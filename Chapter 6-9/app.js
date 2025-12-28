@@ -29,7 +29,7 @@ document.write("<h4 class = 'heading'>3.  " + "<br>" + "Hello " + firstName + " 
 document.write("<p class = 'para'>Good morning, everyone! It is with great enthusiasm that I welcome you to the first day of our 2025-2026 journey. Whether you are returning or joining us for the first time, you are the heart and soul of this institute.</p></br><hr>")
 
 //question # 4:
-var num = prompt("Enter a number", 5);
+var num = prompt("Enter a number");
 console.log(num);
 var i = 1
 document.write("<h2 class = 'heading'>Table of " + num + "</h2><br>");
